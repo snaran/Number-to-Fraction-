@@ -1,1 +1,1 @@
-# TestGit
+# Functional Java class
