@@ -13,8 +13,6 @@ public class Fraction
         this.numer = numer;
         this.denom = denom;
     }
-Selkie, E. M., Kota, R., Chan, Y., & Moreno, M. (2015). Cyberbullying, Depression, and Problem Alcohol Use in Female College Students: A Multisite Study. Cyberpsychology, Behavior, and Social Networking, 18(2), 79-86. doi:10.1089/cyber.2014.0371
-    // copy constructor
     public Fraction(Fraction otherFrac)
     {
         this.numer = otherFrac.numer;
